@@ -28,7 +28,7 @@ https://gh-proxy.com/github.com/chen08209/FlClash/releases/download/v0.8.68/FlCl
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 订阅地址（能不能用看自己网络）
-报废！BPB：
+BPB：
 https://xiaoa.siyan.us.kg/sub/7374c104-af41-4b29-ade5-e591a76a5eeb?app=clash#BPB-Full-Normal
 
 报废！edgetunnel：
