@@ -33,9 +33,12 @@ https://xiaoa.siyan.us.kg/sub/7374c104-af41-4b29-ade5-e591a76a5eeb?app=clash#BPB
 
 edgetunnel：
 https://neigui.siyan.us.kg/e737f226-deb4-484f-a795-ad2802e903b3/pty
+clash专用：https://neigui.siyan.us.kg/e737f226-deb4-484f-a795-ad2802e903b3/pcl
 
 edgetunnel_FAST：
 https://siyanshineigui.siyan.us.kg/f7edb999-18c7-49ec-9e2d-440c3828fe05/pty
+clash专用：https://siyanshineigui.siyan.us.kg/f7edb999-18c7-49ec-9e2d-440c3828fe05/pcl
+
 
 git：
 https://gh-proxy.com/raw.githubusercontent.com/thefatedefeater/HiN-VPN/refs/heads/main/subscription/normal/vmess
